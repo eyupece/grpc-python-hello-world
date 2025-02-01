@@ -39,3 +39,4 @@ python client.py
 ## Medium Blog Post
 
 Bu örnek kod, gRPC'yi Python ile nasıl kullanacağınızı anlatan Medium blog yazısı için hazırlanmıştır. Detaylı açıklamalar için blog yazısını okuyabilirsiniz. 
+Link : https://medium.com/@eyupece/microservice-ve-grpc-temelleri-i%CC%87lk-servisinizi-ad%C4%B1m-ad%C4%B1m-olu%C5%9Fturun-b48dfde22ee7
