@@ -1,0 +1,18 @@
+syntax = "proto3";
+package hello;
+
+// Selamlama servisi
+service Greeter {
+    // Selamlama metodu
+    rpc SayHello (HelloRequest) returns (HelloResponse) {}
+}
+
+// Gelen istek - isim içerir
+message HelloRequest {
+    string name = 1;
+}
+
+// Giden yanıt - selamlama mesajı içerir
+message HelloResponse {
+    string message = 1;
+}

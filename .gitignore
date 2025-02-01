@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db 
